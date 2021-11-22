@@ -61,8 +61,11 @@ public class ExtentReporterNG implements IReporter {
 				  
 				 // test.log(logStatus, stepName, details);
 				  
+				 if(status.toString().equalsIgnoreCase("pass"))
+				     test.log(status,message,test.addScreenCapture(".//screenShots//pass//"+result.getName()));
 				 
-				  test.log(status,message);
+				 if(status.toString().equalsIgnoreCase("fail"))
+				     test.log(status,test.addScreenCapture(".//screenShots//fail//"+result.getName()),message);
 				//  test.fail("Test Case failed check screenshot below"+test.addScreenCaptureFromPath(screenshotPath)
 				  
 				   // test.addScreenCapture()

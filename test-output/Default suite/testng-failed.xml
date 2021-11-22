@@ -5,9 +5,17 @@
     <classes>
       <class name="com.mindtree.runner.BigSmall">
         <methods>
+          <include name="WishListTesting"/>
+          <include name="contactUsTesting"/>
+          <include name="AboutUsTesting"/>
           <include name="closeDriver"/>
+          <include name="searchingBoxTesting"/>
+          <include name="AllOfItTesting"/>
+          <include name="persionalizedGiftMenuTesting"/>
           <include name="ChristmasGiftMenuTesting"/>
+          <include name="GitCartTesting"/>
           <include name="ShopByCategoryTesting"/>
+          <include name="signInTesting" invocation-numbers="0 1 2"/>
         </methods>
       </class> <!-- com.mindtree.runner.BigSmall -->
     </classes>

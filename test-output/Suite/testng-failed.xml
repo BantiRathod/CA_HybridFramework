@@ -10,7 +10,8 @@
       <class name="com.mindtree.runner.BigSmall">
         <methods>
           <include name="closeDriver"/>
-          <include name="ShopByCategoryTesting"/>
+          <include name="persionalizedGiftMenuTesting"/>
+          <include name="ChristmasGiftMenuTesting"/>
         </methods>
       </class> <!-- com.mindtree.runner.BigSmall -->
     </classes>

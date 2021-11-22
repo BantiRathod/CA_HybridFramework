@@ -1,0 +1,33 @@
+2021-11-20 19:09:45,715  INFO [main] BigSmall:57 - Browser has been luanched
+2021-11-20 19:09:55,567  INFO [main] BigSmall:62 - url hited
+2021-11-20 19:09:59,474  INFO [main] BigSmall:82 - clicked on sign button
+2021-11-20 19:09:59,790  INFO [main] BigSmall:88 -  entered
+2021-11-20 19:10:00,179  INFO [main] BigSmall:91 -  entered
+2021-11-20 19:10:04,949  INFO [main] BigSmall:93 - clicked on summit button
+2021-11-20 19:10:07,879  INFO [main] BigSmall:82 - clicked on sign button
+2021-11-20 19:10:08,577  INFO [main] BigSmall:88 - defenceaspirants87@gmail.com entered
+2021-11-20 19:10:08,824  INFO [main] BigSmall:91 - gguytuy entered
+2021-11-20 19:10:09,139  INFO [main] BigSmall:93 - clicked on summit button
+2021-11-20 19:10:11,386  INFO [main] BigSmall:82 - clicked on sign button
+2021-11-20 19:10:11,979  INFO [main] BigSmall:88 - rathorb87@gmail.com entered
+2021-11-20 19:10:12,238  INFO [main] BigSmall:91 - Bigsmall@123 entered
+2021-11-20 19:10:12,407  INFO [main] BigSmall:93 - clicked on summit button
+2021-11-20 19:10:22,382  INFO [main] BigSmall:121 - clicked on Persionaized Gift Menu
+2021-11-20 19:10:44,071  INFO [main] BigSmall:163 - product name has been sent to search box
+2021-11-20 19:10:44,257  INFO [main] BigSmall:167 - list appeared of searched product
+2021-11-20 19:10:49,690  INFO [main] BigSmall:191 - clicked on christmas menu
+2021-11-20 19:11:01,181  INFO [main] BigSmall:197 - christmas gift added in cart
+2021-11-20 19:11:16,171  INFO [main] BigSmall:239 - clicked on shop By catagory menu
+2021-11-20 19:11:26,344  INFO [main] BigSmall:248 - clicked on add to wish
+2021-11-20 19:11:31,429  INFO [main] BigSmall:253 - item has been added in wish list
+2021-11-20 19:11:35,843  INFO [main] BigSmall:274 - clicked on shop By all of it menu
+2021-11-20 19:11:41,770  INFO [main] BigSmall:278 - Title under All ot It is verified
+2021-11-20 19:11:49,721  INFO [main] BigSmall:299 - clicked on wishlist menu
+2021-11-20 19:11:56,061  INFO [main] BigSmall:309 - products are available in wish list
+2021-11-20 19:12:00,470  INFO [main] BigSmall:321 - clicked on gift card button
+2021-11-20 19:12:00,675  INFO [main] BigSmall:325 - gift card feature is working
+2021-11-20 19:12:03,861  INFO [main] BigSmall:337 - clicked on about us menu
+2021-11-20 19:12:04,054  INFO [main] BigSmall:341 - getting all info about website
+2021-11-20 19:12:06,793  INFO [main] BigSmall:354 - clicked on contact us
+2021-11-20 19:12:07,671  INFO [main] BigSmall:359 - all info added
+2021-11-20 19:12:07,787  INFO [main] BigSmall:365 - thank you for contacting us

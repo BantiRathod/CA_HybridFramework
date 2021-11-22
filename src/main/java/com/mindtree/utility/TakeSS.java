@@ -34,10 +34,10 @@ public class TakeSS {
 		//System.out.println(result.getStatus());
 		
 		if(result.getStatus()==1)
-	         path = ".//screenShots//pass//" + result.getName()+" "+date+ ".png";
+	         path = ".//screenShots//pass//" + result.getName()+".png";
 		
 		else if(result.getStatus()==2)
-			 path = ".//screenShots//fail//" + result.getName()+" "+date+ ".png";    
+			 path = ".//screenShots//fail//" + result.getName()+".png";    
 		
 		try {
 			des = new File(path);
